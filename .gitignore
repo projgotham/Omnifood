@@ -3,3 +3,4 @@
 # Example .gitignore files: https://github.com/github/gitignore
 /bower_components/
 /node_modules/
+/ionicons-2.0.1/composer.json
